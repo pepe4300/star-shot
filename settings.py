@@ -1,4 +1,5 @@
 import pygame
+import os
 from os.path import join
 from random import randint
 import pygame.sprite

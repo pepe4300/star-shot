@@ -1,0 +1,24 @@
+## to do
+
+### player
+- add dash cooldown ✅
+    - add dash particles ✅
+        - make particles follow player
+        - resize dash particles
+- add obstakle collisions
+
+### score
+- add score
+
+### obstakles
+- add obstacles - done
+    - add spawn timer for obstakles - done
+        - increase spawn time as score goes up
+    - add random spawn location for obstakles - done
+
+### menu screen
+- add menu screen
+
+### game over
+- add a game over screen
+- add play again button
